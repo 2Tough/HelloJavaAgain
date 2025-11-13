@@ -2,6 +2,7 @@ package com.mooc.interfaces.hello;
 
 import java.util.Scanner;
 
+
 public class HelloJavaAgain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
